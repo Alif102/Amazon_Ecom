@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Amazon_Ecom/static/css/main.c5b35db9.css",
+    "main.js": "/Amazon_Ecom/static/js/main.7a7671bc.js",
+    "static/media/m8.png": "/Amazon_Ecom/static/media/m8.3bae8efed45d10b7ce42.png",
+    "static/media/l1.jpg": "/Amazon_Ecom/static/media/l1.f6478fbd158af6ab4945.jpg",
+    "static/media/p4.jpg": "/Amazon_Ecom/static/media/p4.a92f6b4e671a488580b2.jpg",
+    "static/media/p5.jpg": "/Amazon_Ecom/static/media/p5.101ed84a009c18916606.jpg",
+    "static/media/sm1.png": "/Amazon_Ecom/static/media/sm1.9fece4dce21e602d9730.png",
+    "static/media/back.webp": "/Amazon_Ecom/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/p3.jpg": "/Amazon_Ecom/static/media/p3.a3d21d0356121d142fb3.jpg",
+    "static/media/p2.jpg": "/Amazon_Ecom/static/media/p2.e68cc5a0e8ea85d24fa0.jpg",
+    "static/media/women.png": "/Amazon_Ecom/static/media/women.34bf98f20cf33f1ad487.png",
+    "static/media/ebg2.png": "/Amazon_Ecom/static/media/ebg2.0287b0f515f54672a822.png",
+    "static/media/ap3.jpg": "/Amazon_Ecom/static/media/ap3.212221dd528121fce7a3.jpg",
+    "static/media/p1.jpg": "/Amazon_Ecom/static/media/p1.5f38f7eaea84c573ff03.jpg",
+    "static/media/ebg3.png": "/Amazon_Ecom/static/media/ebg3.4dae55e4d48a0bc729a4.png",
+    "static/media/w5.png": "/Amazon_Ecom/static/media/w5.66b00588ed407168f393.png",
+    "static/media/lap6.jpg": "/Amazon_Ecom/static/media/lap6.edc0d863302d2e3f5695.jpg",
+    "static/media/m7.png": "/Amazon_Ecom/static/media/m7.8198e9d96d83c9849e30.png",
+    "static/media/l3.jpg": "/Amazon_Ecom/static/media/l3.29cdaf384b1958c8f899.jpg",
+    "static/media/m4.png": "/Amazon_Ecom/static/media/m4.9efadac278ec7f7e0202.png",
+    "static/media/ap1.jpg": "/Amazon_Ecom/static/media/ap1.942037e897e61ff57096.jpg",
+    "static/media/n11.jpg": "/Amazon_Ecom/static/media/n11.a1ecd74cdf1f13f7d20a.jpg",
+    "static/media/l4.jpg": "/Amazon_Ecom/static/media/l4.6e142012e490a7898820.jpg",
+    "static/media/ap2.jpg": "/Amazon_Ecom/static/media/ap2.f47d5ca45ed474951870.jpg",
+    "static/media/n7.jpg": "/Amazon_Ecom/static/media/n7.1ee52a15a0fc08487a45.jpg",
+    "static/media/n8.jpg": "/Amazon_Ecom/static/media/n8.eac67c07b560db105861.jpg",
+    "index.html": "/Amazon_Ecom/index.html",
+    "main.c5b35db9.css.map": "/Amazon_Ecom/static/css/main.c5b35db9.css.map",
+    "main.7a7671bc.js.map": "/Amazon_Ecom/static/js/main.7a7671bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5b35db9.css",
+    "static/js/main.7a7671bc.js"
+  ]
+}
