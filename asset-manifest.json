@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Amazon_Ecom/static/css/main.c5b35db9.css",
-    "main.js": "/Amazon_Ecom/static/js/main.7a7671bc.js",
+    "main.js": "/Amazon_Ecom/static/js/main.ec3cca72.js",
     "static/media/m8.png": "/Amazon_Ecom/static/media/m8.3bae8efed45d10b7ce42.png",
     "static/media/l1.jpg": "/Amazon_Ecom/static/media/l1.f6478fbd158af6ab4945.jpg",
     "static/media/p4.jpg": "/Amazon_Ecom/static/media/p4.a92f6b4e671a488580b2.jpg",
@@ -28,10 +28,10 @@
     "static/media/n8.jpg": "/Amazon_Ecom/static/media/n8.eac67c07b560db105861.jpg",
     "index.html": "/Amazon_Ecom/index.html",
     "main.c5b35db9.css.map": "/Amazon_Ecom/static/css/main.c5b35db9.css.map",
-    "main.7a7671bc.js.map": "/Amazon_Ecom/static/js/main.7a7671bc.js.map"
+    "main.ec3cca72.js.map": "/Amazon_Ecom/static/js/main.ec3cca72.js.map"
   },
   "entrypoints": [
     "static/css/main.c5b35db9.css",
-    "static/js/main.7a7671bc.js"
+    "static/js/main.ec3cca72.js"
   ]
 }
