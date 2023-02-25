@@ -1,0 +1,25 @@
+
+.signCard {
+  width: 550px;
+  background: #000;;
+  height: 100%;
+  border-radius: 1rem;
+  padding: 2rem;
+  margin: 1rem;
+  align-items: center;
+  
+}
+
+@media only screen and (max-width: 620px) {
+  .signCard {
+    width: 90vw;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+@media only screen and (max-height: 670px) {
+  .signCard {
+    height: 650px;
+  }
+}

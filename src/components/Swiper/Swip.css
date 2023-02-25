@@ -1,0 +1,34 @@
+.swiper {
+    width: 68%;
+    height: 52%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    margin-top: 4rem;
+    font-size: 18px;
+    background: #fff;
+
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 75%;
+    height: 75%;
+    object-fit: cover;
+    cursor: pointer;
+  }
+
+
+  @media screen and (max-width: 768px) {
+    .swiper {
+      width: 50%;
+      height: 52%;
+    }
+
+  }
